@@ -4,6 +4,7 @@
 	"description": "",
 	"main": "index.js",
 	"scripts": {
+		"prestart": "npm-run-all lint",
 		"start": "echo BUILD OK",
 		"lint": "eslint src/**/*.js",
 		"test": "echo \"Error: no test specified\" && exit 1"
