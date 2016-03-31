@@ -16,7 +16,7 @@ User Stories:
 Engineering Tasks:
 * automated build
 * static code analysis (lint)
-- continous integration
+* continous integration
 - server-side testing
 - client-side testing
 
