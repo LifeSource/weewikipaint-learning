@@ -60,8 +60,6 @@
         "es6": true
     },
     "globals": {
-        "angular": true,
-		"task": true,
-		"desc": true
+        "angular": true
     }
 }
