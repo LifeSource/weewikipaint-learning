@@ -19,3 +19,6 @@ Engineering Tasks:
 - continous integration
 - server-side testing
 - client-side testing
+
+To Do on current task:
+- make build fail when lint fails
